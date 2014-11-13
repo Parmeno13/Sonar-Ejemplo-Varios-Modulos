@@ -1,0 +1,1 @@
+Sonar no debería examinar acá porque no hay Source. Por lo que no se debe establecer un archivo .properties.
